@@ -1,1 +1,3 @@
-hello from file one
+Using git bash
+* Enter command git config --global user.name "name"
+* Enter command git config --global user.email "email"
